@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\GameStateManager.cs" />
      <Compile Include="Assets\Scripts\PlatformManager.cs" />
      <Compile Include="Assets\Scripts\SkylineManager.cs" />
+     <Compile Include="Assets\Scripts\WeatherManager.cs" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
