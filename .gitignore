@@ -1,51 +1,5 @@
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-CSharp-firstpass.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-CSharp-firstpass.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-CSharp.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-CSharp.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-UnityScript-firstpass.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/Assembly-UnityScript-firstpass.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/Boo.Lang.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/Mono.Security.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/Mono.Security.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/System.Core.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/System.Core.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/System.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/System.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/Managed/UnityEngine.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/1.0/machine.config
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/2.0/machine.config
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/2.0/settings.map
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/2.0/web.config
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/browscap.ini
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/config
-Binaries/EndlessRunner.app/Contents/Data/Managed/etc/mono/mconfig/config.xml
-Binaries/EndlessRunner.app/Contents/Data/Managed/mscorlib.dll
-Binaries/EndlessRunner.app/Contents/Data/Managed/mscorlib.dll.mdb
-Binaries/EndlessRunner.app/Contents/Data/PlayerConnectionConfigFile
-Binaries/EndlessRunner.app/Contents/Data/mainData
-Binaries/EndlessRunner.app/Contents/Data/sharedassets0.assets
-Binaries/EndlessRunner.app/Contents/Frameworks/MonoEmbedRuntime/osx/libmono.0.dylib
-Binaries/EndlessRunner.app/Contents/Info.plist
-Binaries/EndlessRunner.app/Contents/MacOS/Endless Runner
-Binaries/EndlessRunner.app/Contents/PkgInfo
-Binaries/EndlessRunner.app/Contents/Resources/Ageia.tif
-Binaries/EndlessRunner.app/Contents/Resources/HID_override.plist
-Binaries/EndlessRunner.app/Contents/Resources/KeyConfig.nib/classes.nib
-Binaries/EndlessRunner.app/Contents/Resources/KeyConfig.nib/info.nib
-Binaries/EndlessRunner.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
-Binaries/EndlessRunner.app/Contents/Resources/MainMenu.nib/classes.nib
-Binaries/EndlessRunner.app/Contents/Resources/MainMenu.nib/info.nib
-Binaries/EndlessRunner.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
-Binaries/EndlessRunner.app/Contents/Resources/Mono.tif
-Binaries/EndlessRunner.app/Contents/Resources/ScreenSelector.nib/classes.nib
-Binaries/EndlessRunner.app/Contents/Resources/ScreenSelector.nib/info.nib
-Binaries/EndlessRunner.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
-Binaries/EndlessRunner.app/Contents/Resources/UnityPlayerIcon.png
-Binaries/EndlessRunner.app/Contents/Resources/unity default resources
-Endless Runner/Temp/Undo0557f0b2c938c4494bb5b18a1fa75787
-Endless Runner/Temp/Undo6d467d00babca49d9b25936825822b71
-Endless Runner/Temp/Undobd13356b4099f43f4822bdb57cacff87
-Endless Runner/Temp/__EditModeScene
+Binaries/*
+!Binaries/*.zip
+
+Endless Runner/Temp/*
+Endless Runner/Temp
