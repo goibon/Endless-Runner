@@ -47,12 +47,14 @@
      <Compile Include="Assets\My2DController.cs" />
      <Compile Include="Assets\MyController.cs" />
      <Compile Include="Assets\Scripts\Booster.cs" />
+     <Compile Include="Assets\Scripts\CameraForMainCharacter.cs" />
      <Compile Include="Assets\Scripts\ConstantCharacterMovement.cs" />
      <Compile Include="Assets\Scripts\GUIManager.cs" />
      <Compile Include="Assets\Scripts\GameEventManager.cs" />
      <Compile Include="Assets\Scripts\GameStateManager.cs" />
      <Compile Include="Assets\Scripts\PlatformManager.cs" />
      <Compile Include="Assets\Scripts\SkylineManager.cs" />
+     <Compile Include="Assets\Scripts\TrailEmitter.cs" />
      <Compile Include="Assets\Scripts\WeatherManager.cs" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>

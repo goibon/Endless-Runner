@@ -41,6 +41,10 @@ public class ConstantCharacterMovement : MonoBehaviour {
 		if(transform.localPosition.y < gameOverY){
 			GameEventManager.TriggerGameOver();
 		}
+		
+		// Move camera according to velocity
+		//Camera camera = gameObject.GetComponentInChildren<Camera>();
+		//camera.orthographicSize = gameObject.rigidbody.velocity.y;
 	}
 	
 	void FixedUpdate () {

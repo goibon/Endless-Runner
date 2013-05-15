@@ -29,11 +29,11 @@ public class WeatherManager : MonoBehaviour {
 		{
 			foreach (GameObject weather in weathers)
 			{
-				//weather.transform.particleSystem.enableEmission = true;
 				Destroy(weather);
 			}
-			ParticleSystem weatherInstance = (ParticleSystem)Instantiate(weatherEmitters[weatherIndex], offset, Quaternion.identity);
+			ParticleSystem weatherInstance = (ParticleSystem)Instantiate(weatherEmitters[weatherIndex], Vector3.zero, Quaternion.identity);
 			weatherInstance.transform.parent = target;
+			weatherInstance.transform.localPosition = offset;
 		}
 		else // For first time initialization
 		{
